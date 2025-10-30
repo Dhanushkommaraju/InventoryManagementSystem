@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.zip
+*.log
+.vscode/
+.DS_Store
+openJdk-25.jdk/
+jdk*/
